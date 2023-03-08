@@ -24,6 +24,22 @@
   color: white;
 }
 
+.button {
+  width: 200px;
+  height: 30px;
+  transition-duration: 0.4s;
+  text-align: center;
+  color: darkblue;
+}
+
+.cell {
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  font-size: 50px;
+  color:darkblue
+}
+
 .App-link {
   color: #61dafb;
 }
